@@ -1,4 +1,6 @@
 # 📊 Blinkit Power BI Dashboard Analysis ([Blinkit dashboard.pdf](https://github.com/user-attachments/files/18277275/Blinkit.dashboard.pdf))
+SNAPSHORT OF DASHBOARD
+![image](https://github.com/user-attachments/assets/9ab13055-2f1a-455f-b23f-5303ab03c462)
 # Overview
 This project analyzes sales and customer data from the Blinkit application, utilizing Power BI to create a comprehensive dashboard. The analysis provides actionable insights into sales trends, customer preferences, and key performance indicators (KPIs) to support data-driven business decisions.
 
@@ -26,38 +28,29 @@ Total Sales: $1.20M
 Average Sales per Item: $141
 Total Items Sold: 8,523
 Average Customer Rating: 3.9
-# Detailed Insights:
+
+# Detailed Insights: 
+
 1. Sales by Fat Content:
-
-Low Fat: $776.32K    
-Regular: $425.36K
-
+   Low Fat: $776.32K    
+   Regular: $425.36K
 2. Sales by Outlet Type:
-
-Supermarket Type 1: $787.55K (5,577 items, Avg. Rating: 3.92)  
-Grocery Store: $151.94K (1,083 items, Avg. Rating: 3.93)  
-Supermarket Type 2: $131.48K (928 items, Avg. Rating: 3.93)  
-Supermarket Type 3: $130.71K (935 items, Avg. Rating: 3.91)
-
-3. Top-Selling Categories:
-
-Fruits and Vegetables, Snack Foods, Household Items, Frozen Foods.
-
-4. Sales by Outlet Size:
-
-Medium: $507.90K  
-Small: $444.79K  
-Large: $248.99K
-
-5. Sales by Location:
-
-Tier 3: $472.13K  
-Tier 2: $393.15K   
-Tier 1: $336.40K     
-
-6. Sales Growth by Outlet Establishment Year:
-
-Consistent growth observed for outlets established between 2018 and 2022.
+   Supermarket Type 1: $787.55K (5,577 items, Avg. Rating: 3.92)    
+   Supermarket Type 2: $131.48K (928 items, Avg. Rating: 3.93)  
+   Supermarket Type 3: $130.71K (935 items, Avg. Rating: 3.91)
+   Grocery Store: $151.94K (1,083 items, Avg. Rating: 3.93)
+4. Top-Selling Categories:
+   Fruits and Vegetables, Snack Foods, Household Items, Frozen Foods.
+5. Sales by Outlet Size:
+   Medium: $507.90K  
+   Small: $444.79K  
+   Large: $248.99K
+6. Sales by Location:
+   Tier 3: $472.13K  
+   Tier 2: $393.15K   
+   Tier 1: $336.40K     
+7. Sales Growth by Outlet Establishment Year:
+   Consistent growth observed for outlets established between 2018 and 2022.
 
 # Conclusion
 Medium-sized outlets and Tier 3 locations generate the highest sales.
@@ -73,6 +66,5 @@ Newer outlets (established post-2018) show consistent sales growth, highlighting
 
 3. Outlet Expansion: Scale up successful small outlets to medium or large sizes to boost sales.
 
-SNAPSHORT OF DASHBOARD
-![image](https://github.com/user-attachments/assets/9ab13055-2f1a-455f-b23f-5303ab03c462)
+
 
